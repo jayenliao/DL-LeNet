@@ -6,7 +6,7 @@ This is assignment 4 of Deep Learning, a course at Institute of Data Science, Na
 
 ## Data
 
-- Images: please go to https://drive.google.com/open?id=1kwYYWL67O0Dcbx3dvZIfbGg9NiHdyisr to download raw image files and put them under the folder `./images/`. There are 64,225 files with 50 subfolders.
+- Images: please go [here](https://drive.google.com/open?id=1kwYYWL67O0Dcbx3dvZIfbGg9NiHdyisr) to download raw image files and put them under the folder `./images/`. There are 64,225 files with 50 subfolders.
 
 - File name lists of images: `./data/train.txt`, `./data/val.txt`, and `./data/test.txt`.
 
