@@ -28,7 +28,7 @@ This is assignment 4 of Deep Learning, a course at Institute of Data Science, Na
 
 - Source codes for training LeNet-5 with Keras:
 
-    -  `./lenet_keras/args.py`: define the arguments parser
+    -  `./lenet_keras/args.py` defines the arguments parser
     
     -  `./lenet_keras/trainer.py`: class for training, predicting, and evaluating the models
     
@@ -68,6 +68,7 @@ git clone https://github.com/jayenliao/DL-LeNet.git
 
 ```
 cd DL-LeNet
+pip3 install requirement.txt
 ```
 
 3. Run the experiments.
